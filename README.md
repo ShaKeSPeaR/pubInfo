@@ -12,7 +12,7 @@
 
  * *Спирин А.Д.,Александров И.В.,Антипин Б.М.* "Определение местоположения источников радиоизлучений в условиях сложного окружения", VI МНТиНМК, 2017, [[РИНЦ](https://elibrary.ru/item.asp?id=29890049)]
  * *Alexander Spirin, Boris Antipin* ["Non-conventional Algorithm of Radio Transmission Sources Position Location"](http://ieeexplore.ieee.org/document/7910617),
-   EIConRus (IEEE Conference of Russian), 2017, [[РИНЦ](https://elibrary.ru/item.asp?id=29086660), [SCOPUS](https://www.scopus.com/results/authorNamesList.uri?s=AUTHLASTNAME%28EQUALS%28Spirin%29%29+AND+AUTHFIRST%28Alexander+D.%29&st1=Spirin&st2=Alexander+D.&showDocument=true&exactAuthorSearch=true&showFullList=true)]
+   EIConRus (IEEE Conference of Russian), 2017, [[РИНЦ](https://elibrary.ru/item.asp?id=29086660), [SCOPUS](https://www.scopus.com/record/display.uri?eid=2-s2.0-85019419177&origin=inward&txGid=f06cab7c16d2ae5d18324496d14ff18e)]
  * *Спирин А.Д., Сысоенко С.С.* "Особенности разработки системы планирования заданий для распределенных средств радиоконтроля", 62 ВНТК, посвящённая Дню Радио, 03.2015, [[РИНЦ](https://elibrary.ru/item.asp?id=26640740)]
 
 [Полный перечень публикаций](publications.md)
