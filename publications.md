@@ -30,7 +30,8 @@
 #### 2017
 
 * *Спирин А.Д.,Александров И.В., Антипин Б.М.* "Определение местоположения источников радиоизлучений в условиях сложного окружения", VI МНТиНМК, 2017, [[РИНЦ](https://elibrary.ru/item.asp?id=29890049)]
-* *Спирин А.Д.* "Подходы к поиску оптимального алгоритма определения местоположения источников радиоизлучения", 72 ВНТК, посвящённая Дню Радио, 2017
+* *Спирин А.Д.* "Подходы к поиску оптимального алгоритма определения местоположения источников радиоизлучения", 72 ВНТК, посвящённая Дню Радио, 2017 [РИНЦ]
+* *Логинов Ю.И., Спирин А.Д.* "Теория однопозиционной энергетической координатометрии источников радиоизлучения", 72 ВНТК, посвящённая Дню Радио, 2017 [РИНЦ]
 * *Alexander Spirin, Boris Antipin* ["Non-conventional Algorithm of Radio Transmission Sources Position Location"](ieeexplore.ieee.org/document/7910617),
    EIConRus (IEEE Conference of Russian), 2017, [[РИНЦ](https://elibrary.ru/item.asp?id=29086660), [SCOPUS](https://www.scopus.com/results/authorNamesList.uri?s=AUTHLASTNAME%28EQUALS%28Spirin%29%29+AND+AUTHFIRST%28Alexander+D.%29&st1=Spirin&st2=Alexander+D.&showDocument=true&exactAuthorSearch=true&showFullList=true)]
 
