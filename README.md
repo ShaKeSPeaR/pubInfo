@@ -20,3 +20,4 @@
 ## Свидетельства о регистрации программ для ЭВМ
 
  * *Спирин А.Д., Антипин Б.М., Виноградов Е.М.* ["ЭМС-Монитор"](https://drive.google.com/file/d/0Bz2f_aS77S8VengzeHZjN1podVk), №2013611032, 2013 г.
+ * *Спирин А.Д., Антипин Б.М.* ["БС - Монитор"](https://drive.google.com/open?id=1RFyIpAkwm9QYLpqDUWHeKJl5gPJl6PsM), №2017662766, 2017 г.
